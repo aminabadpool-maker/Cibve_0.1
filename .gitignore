@@ -1,0 +1,6 @@
+# Binaries and build outputs
+cibve
+*.o
+
+# APKs and external downloads
+*.apk
